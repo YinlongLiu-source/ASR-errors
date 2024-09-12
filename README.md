@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 To obtain the data used for fine-tuning the ASR models (WLS, Lu, Kempler) and for AD detection (ADReSS), please visit [DementiaBank](https://dementia.talkbank.org/) , as we do not have the authorization to make them publicly available.
 
-## Methods
+## Methods（introduction of scripts）
 
 ### **Fine tune ASR models:**
 
