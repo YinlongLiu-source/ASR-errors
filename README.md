@@ -35,7 +35,7 @@ To obtain the data used for fine-tuning the ASR models (WLS, Lu, Kempler) and fo
 * **model_op.py :** optimize the model.
 * **main.py:** run experiments.
 
-### **Interpretability Study**
+### **Interpretability study**
 
 * **Linguistic analysis.ipynb:** conduct linguistic analysis.
 * **SHAP analysis.ipynb:** conduct SHAP analysis.
