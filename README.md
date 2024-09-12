@@ -14,7 +14,7 @@ To obtain the data used for fine-tuning the ASR models (WLS, Lu, Kempler) and fo
 
 ## Methods（introduction of scripts）
 
-### **Fine tune ASR models:**
+### **Fine tune and evaluate ASR models:**
 
 * **fine_tune_asr_wav2vec.py :** fine tune Wav2Vec 2.0, HuBERT, and WavLM models.
 * **fine_tune_asr_whisper.py :** fine tune Whisper model.
